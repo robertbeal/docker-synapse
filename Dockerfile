@@ -1,4 +1,4 @@
-FROM alpine:3.8
+FROM alpine:3.11.6
 LABEL maintainer="github.com/robertbeal"
 
 ENV VERSION=v0.26.0
